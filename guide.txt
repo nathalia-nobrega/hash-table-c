@@ -1,0 +1,8 @@
+SAÍDA:
+
+=== HASH TABLE ===
+Size: 10 | Entries: 6
+
+[0]: Fiona Apple → Horsegirl → Electrelane (UK)
+[2]: Georgia Ellery
+[5]: Tyler Hyde → May Kershaw
