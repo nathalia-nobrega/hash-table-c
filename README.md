@@ -4,7 +4,7 @@
 
 This project implements a hash table in C using separate chaining to handle collisions. Each bucket in the table is a linked list that stores key-value pairs. The program includes functions to create the table, insert entries, search for keys, and free all allocated memory.
 
-The hash function used is **djb2**.
+The hash function used is **djb2** (not the most efficient, but simple enough).
 
 
 ## Example Output
